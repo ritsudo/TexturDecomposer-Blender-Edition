@@ -1,0 +1,18 @@
+schema_version = "1.0.0"
+
+id = "textur_decomposer"
+version = "0.2.1"
+name = "Textur Decomposer"
+tagline = "Extract rectified textures from tilted surfaces in photos"
+maintainer = "Textur Decomposer contributors"
+type = "add-on"
+
+tags = ["UV", "Import-Export", "Mesh", "Paint"]
+
+blender_version_min = "4.2.0"
+# Verified against the Blender 5.0 extension API.
+
+license = ["SPDX:GPL-3.0-or-later"]
+
+[permissions]
+files = "Load user selected images and optionally save extracted textures"
