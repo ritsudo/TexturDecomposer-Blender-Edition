@@ -4,7 +4,7 @@
 
 HAND Tool for recovering **rectified (square) textures** from tilted surfaces in a static
 photo — walls, floors, tables, etc. This is the Blender re-implementation of
-the original [TexturDecomposer C#](https://https://github.com/ritsudo/TexturDecomposer) tool.
+the original [TexturDecomposer C#](https://github.com/ritsudo/TexturDecomposer) tool.
 (some parts are similar to the fSpy functionality, but with modern Blender)
 
 Blender target: **4.2+ / 5.0+** (extension format, `blender_manifest.toml`).
